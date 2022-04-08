@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/vZKPAfk0Bj0l8naZVx/giphy.gif" width="100"/>
   </br>
   <h1>Ola seja bem vindo!</h1>
 </div>
