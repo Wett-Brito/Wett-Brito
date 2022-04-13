@@ -51,5 +51,5 @@ I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wett-Brito)](https://github.com/Wett-Brito/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wett-Brito&show_icons=true&theme=radical)
 
