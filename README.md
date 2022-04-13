@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil :brazil:. <img src="https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif" width="30">
+I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil <img src="https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif" width="30">
 
 - :telescope: I’m working as an Automation Test Developer Senior, contributing to improve the quality on my company.
 
