@@ -21,8 +21,6 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wett-Brito&layout=compact&theme=vision-friendly-dark)](https://github.com/Wett-Brito)
-
 ---
 
 ### :woman_technologist: About Me :
@@ -35,6 +33,7 @@ I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-brito-b632ab135/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wett-Brito&layout=compact&theme=vision-friendly-dark)](https://github.com/Wett-Brito)
 
 ---
 
