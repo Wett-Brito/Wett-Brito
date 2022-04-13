@@ -50,3 +50,6 @@ I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wett-Brito)](https://github.com/Wett-Brito/github-readme-stats)
+
