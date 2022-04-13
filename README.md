@@ -35,6 +35,11 @@ I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-brito-b632ab135/)
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
