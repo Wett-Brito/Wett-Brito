@@ -33,4 +33,4 @@ I am a Automation Test Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Learning Full-Stack technolagies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-brito-b632ab135/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Wellington-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-brito-b632ab135/)
