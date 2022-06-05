@@ -8,7 +8,6 @@
   </br>
   <h1>
       Hello!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
   </h1>
  
   <a href="https://www.linkedin.com/in/wellington-brito-b632ab135/"> 
